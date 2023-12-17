@@ -1,5 +1,5 @@
 # Quizzie Thunder
-<img width="100" height = "100" alt="Quizzie Thunder Logo" src="https://github.com/Shashank02051997/QuizzieThunder-ReactJs/assets/20399094/7d0d5273-e13c-4b5c-a780-fb8d151c7675">
+<img width="100" height = "100" alt="Quizzie Thunder Logo" src="https://github.com/Shashank02051997/QuizzieThunder-NodeJs/assets/20399094/7d0d5273-e13c-4b5c-a780-fb8d151c7675">
 
 ## Description
 
