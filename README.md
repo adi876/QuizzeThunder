@@ -1,6 +1,5 @@
-# QuizzeThunder
-
-<img width="100" height = "100" alt="Quizzie Thunder Logo" src="https://github.com/adi876/QuizzieThunder/assets/20399094/7d0d5273-e13c-4b5c-a780-fb8d151c7675">
+# Quizzie Thunder
+<img width="100" height = "100" alt="Quizzie Thunder Logo" src="https://github.com/Shashank02051997/QuizzieThunder-ReactJs/assets/20399094/7d0d5273-e13c-4b5c-a780-fb8d151c7675">
 
 ## Description
 
@@ -66,18 +65,18 @@ Quizzie Thunder provides a range of features:
 
 ## Screenshots
 
-<img width="1440" alt="Screenshot 2023-11-21 at 1 29 33 AM" src="https://github.com/adi876/QuizzieThunder/assets/20399094/cf195edd-fa2e-43dd-91c9-378c2c02bb3f">
-<img width="1440" alt="Screenshot 2023-11-21 at 1 30 45 AM" src="https://github.com/adi876/QuizzieThunder/assets/20399094/d42644f2-dddb-46d6-b3e5-b421e561382d">
-<img width="1440" alt="Screenshot 2023-11-21 at 1 29 51 AM" src="https://github.com/adi876/QuizzieThunder/assets/20399094/f30aea03-5aab-42b5-b6a7-6f04b7bc79d9">
-<img width="1440" alt="Screenshot 2023-11-21 at 1 30 54 AM" src="https://github.com/adi876/QuizzieThunder/assets/20399094/a7887aaf-5aa8-4c83-9f7b-45b183a2ff42">
-<img width="1440" alt="Screenshot 2023-11-21 at 1 29 56 AM" src="https://github.com/adi876/QuizzieThunder/assets/20399094/37fc325e-4fac-4171-b316-ecbd62877bd2">
-<img width="1440" alt="Screenshot 2023-11-21 at 1 30 59 AM" src="https://github.com/adi876/QuizzieThunder/assets/20399094/f524d944-4033-4f8c-958a-67db3f8d1fc2">
-<img width="1440" alt="Screenshot 2023-11-21 at 1 30 34 AM" src="https://github.com/adi876/QuizzieThunder/assets/20399094/675a19ed-af7f-463f-9474-1cac3eea3d0b">
-<img width="1440" alt="Screenshot 2023-11-21 at 1 30 04 AM" src="https://github.com/adi876/QuizzieThunder/assets/20399094/7451d5b0-62a4-49d0-8935-d59cb31320f1">
-<img width="1440" alt="Screenshot 2023-11-21 at 1 31 32 AM" src="https://github.com/adi876/QuizzieThunder/assets/20399094/aaed7141-b299-4e6a-bf46-298372c98b81">
-<img width="1440" alt="Screenshot 2023-11-21 at 1 31 17 AM" src="https://github.com/adi876/QuizzieThunder/assets/20399094/e43ca02f-78b5-4e29-83c2-953b64042947">
-<img width="1440" alt="Screenshot 2023-11-21 at 1 30 24 AM" src="https://github.com/adi876/QuizzieThunder/assets/20399094/546c9baf-c693-45ec-852f-3e79ff131f47">
-<img width="1440" alt="Screenshot 2023-11-21 at 1 31 24 AM" src="https://github.com/adi876/QuizzieThunder/assets/20399094/00a5871f-6e72-487f-b394-8ad467104346">
+<img width="1440" alt="Screenshot 2023-11-21 at 1 29 33 AM" src="https://github.com/Shashank02051997/QuizzieThunder-NodeJs/assets/20399094/cf195edd-fa2e-43dd-91c9-378c2c02bb3f">
+<img width="1440" alt="Screenshot 2023-11-21 at 1 30 45 AM" src="https://github.com/Shashank02051997/QuizzieThunder-NodeJs/assets/20399094/d42644f2-dddb-46d6-b3e5-b421e561382d">
+<img width="1440" alt="Screenshot 2023-11-21 at 1 29 51 AM" src="https://github.com/Shashank02051997/QuizzieThunder-NodeJs/assets/20399094/f30aea03-5aab-42b5-b6a7-6f04b7bc79d9">
+<img width="1440" alt="Screenshot 2023-11-21 at 1 30 54 AM" src="https://github.com/Shashank02051997/QuizzieThunder-NodeJs/assets/20399094/a7887aaf-5aa8-4c83-9f7b-45b183a2ff42">
+<img width="1440" alt="Screenshot 2023-11-21 at 1 29 56 AM" src="https://github.com/Shashank02051997/QuizzieThunder-NodeJs/assets/20399094/37fc325e-4fac-4171-b316-ecbd62877bd2">
+<img width="1440" alt="Screenshot 2023-11-21 at 1 30 59 AM" src="https://github.com/Shashank02051997/QuizzieThunder-NodeJs/assets/20399094/f524d944-4033-4f8c-958a-67db3f8d1fc2">
+<img width="1440" alt="Screenshot 2023-11-21 at 1 30 34 AM" src="https://github.com/Shashank02051997/QuizzieThunder-NodeJs/assets/20399094/675a19ed-af7f-463f-9474-1cac3eea3d0b">
+<img width="1440" alt="Screenshot 2023-11-21 at 1 30 04 AM" src="https://github.com/Shashank02051997/QuizzieThunder-NodeJs/assets/20399094/7451d5b0-62a4-49d0-8935-d59cb31320f1">
+<img width="1440" alt="Screenshot 2023-11-21 at 1 31 32 AM" src="https://github.com/Shashank02051997/QuizzieThunder-NodeJs/assets/20399094/aaed7141-b299-4e6a-bf46-298372c98b81">
+<img width="1440" alt="Screenshot 2023-11-21 at 1 31 17 AM" src="https://github.com/Shashank02051997/QuizzieThunder-NodeJs/assets/20399094/e43ca02f-78b5-4e29-83c2-953b64042947">
+<img width="1440" alt="Screenshot 2023-11-21 at 1 30 24 AM" src="https://github.com/Shashank02051997/QuizzieThunder-NodeJs/assets/20399094/546c9baf-c693-45ec-852f-3e79ff131f47">
+<img width="1440" alt="Screenshot 2023-11-21 at 1 31 24 AM" src="https://github.com/Shashank02051997/QuizzieThunder-NodeJs/assets/20399094/00a5871f-6e72-487f-b394-8ad467104346">
 
 ## Technologies Used
 
@@ -122,3 +121,4 @@ Have any questions, or doubts or want to present your opinions or views? You're 
 ## License
 
 This project is licensed under the MIT License.
+
